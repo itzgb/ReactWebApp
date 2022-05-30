@@ -8,3 +8,5 @@ export const LOGIN = 'login';
 export const BASE = '/';
 export const ALL = '*';
 export const HOME = '/home';
+
+export const GENRE = '/genre';
